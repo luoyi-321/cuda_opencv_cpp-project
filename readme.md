@@ -37,7 +37,7 @@ cuda_opencv_cpp-project/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/cuda_opencv_cpp-project.git
+git clone https://github.com/luoyi-321/cuda_opencv_cpp-project.git
 cd cuda_opencv_cpp-project
 ```
 
@@ -62,7 +62,7 @@ cd cuda_opencv_cpp-project
 
 Execute the compiled binary:
 ```bash
-./cuda_opencv_app
+./testOpencv
 ```
 
 ### Expected Output
